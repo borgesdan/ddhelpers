@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDHelpers", "DDHelpers\DDHelpers.csproj", "{205BA803-99B6-410E-AD44-925D5D889B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDHelpers.EntityFramework", "DDHelpers.Api\DDHelpers.EntityFramework.csproj", "{9A15196A-3422-43DD-B2E8-82C74FA27059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205BA803-99B6-410E-AD44-925D5D889B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205BA803-99B6-410E-AD44-925D5D889B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205BA803-99B6-410E-AD44-925D5D889B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205BA803-99B6-410E-AD44-925D5D889B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A15196A-3422-43DD-B2E8-82C74FA27059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A15196A-3422-43DD-B2E8-82C74FA27059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A15196A-3422-43DD-B2E8-82C74FA27059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A15196A-3422-43DD-B2E8-82C74FA27059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC83C60-0AD8-4B65-BF56-1D8FF75E05FA}
+	EndGlobalSection
+EndGlobal
